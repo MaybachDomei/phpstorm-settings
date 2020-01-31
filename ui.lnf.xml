@@ -1,7 +1,8 @@
 <application>
   <component name="UISettings">
     <option name="ANIMATE_WINDOWS" value="false" />
-    <option name="EDITOR_TAB_LIMIT" value="1" />
+    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
+    <option name="EDITOR_TAB_LIMIT" value="5" />
     <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="6" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
